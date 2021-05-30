@@ -25,7 +25,7 @@
 -  and many more things..<br>
 
 
-### 📫� How to reach me
+### 📫 How to reach me
 - Create a Issue on any of my repositories or <a href="https://www.linkedin.com/in/naman-kumar-04a49b1ba/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Naman Kumar"/></a>  <br>
 
 ### ⚡ Fun fact
