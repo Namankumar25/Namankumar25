@@ -1,4 +1,6 @@
-### Hi there 👋
+# <p align="center">Hi 👋 I'm Naman <br> </p>
+<h4 align="center">A Technology Freak</h4> 
+
 
 <!--
 **Namankumar25/Namankumar25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
