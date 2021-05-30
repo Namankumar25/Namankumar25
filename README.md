@@ -1,5 +1,5 @@
 # <p align="center">Hi 👋 I'm Naman <br> </p>
-<h4 align="center">A Technology Freak</h4> 
+<h4 align="center">A Technology Freak 💻 </h4> 
 
 
 ### ✨ Skills 
