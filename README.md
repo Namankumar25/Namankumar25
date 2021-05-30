@@ -1,5 +1,4 @@
-# <p>Hi 👋 I'm Naman </p>
-#### A Technology Freak 💻 <br><br>
+## <p>Hi 👋 I'm Naman , A Technology Freak 💻 </p>
 
 
 ### ✨ Skills 
