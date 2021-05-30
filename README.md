@@ -2,17 +2,33 @@
 <h4 align="center">A Technology Freak</h4> 
 
 
-<!--
-**Namankumar25/Namankumar25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ Skills 
+#### Programming Languages 
+- C 
+- C++14
+- Python 
+   
+#### Front-End Knowledge 
+- Html , CSS , BOOTSTRAP 4+ , Template Engines & React.js
 
-Here are some ideas to get you started:
+#### Back-End Knowledge 
+- Node.js & PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### FULL Stack  
+- <strong>M</strong>ongoDb <strong> E</strong>xpress.js <strong>R</strong>eact.js <strong>N</strong>ode.js (MERN) & PHP-BOOSTRAP-MYSQL <br><br>
+
+
+### 🌱 I’m currently learning  
+-  <b>M</b><b>E</b><b>R</b><b>N</b> Development
+-  How to Make Scalable and Effiecient Applications 
+-  Algorithms
+-  and many more things..<br>
+
+
+### 📫 How to reach me
+- Create a Issue on any of my repositories or <a href="https://www.linkedin.com/in/naman-kumar-04a49b1ba/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Naman Kumar"/></a>  <br>
+
+### ⚡ Fun fact
+- Best way to hide something is to Keep that thing in front of everyone  
+
